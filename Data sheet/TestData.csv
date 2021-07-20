@@ -1,0 +1,25 @@
+Field_Data,Field_data_iter1
+signup_first_name,"#2323##$$ ,Arnav ,Meenu"
+signup_last_name,"23##re,A,S"
+signup_email_id,"Testempgmail.com,Aarav123@mail.com,Meenu@gmail.com"
+signup_phone_number,"222555 ,22255523234578 ,2225555131,3332200110"
+signup_password,"Welcome@1,Aarav@97"
+signup_confirm_password,"Welcome@,Welcome@1,Aarav@97"
+signup_firstname_valid_msg,Invalid first name
+signup_lastname_valid_msg,Invalid last name
+signup_email_invalid_msg,Invalid email
+signup_email_blank_msg,Email ID required
+signup_less_ten_msg,Phone number should be 10 digit number
+signup_more_ten_msg,Phone number should be 10 digit number
+signup_pass_blank_msg,Password required
+signup_pass_stren_msg,Password Strength - Very strong
+signup_pass_match_msg,Password does not match
+signup_exist_no_msg,Phone no already exists.
+otp_1,1
+otp_2,2
+otp_3,3
+otp_4,4
+login_phone_number,1231231234
+login_password,"Test1234$,Welcome@1"
+login_invalid_msg,"Invalid username or password, please try again."
+login_valid_msg,Please fill in this field
