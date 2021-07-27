@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="5" failures="0" name="Validating all the services available in the services tab" skipped="0" tests="6" time="93.87" timestamp="2021-07-27 11:45:38"><testcase name="Validate that the user is navigated to the Services page on clicking Services tab"/><testcase name="Navigation to the Second Opinion page on clicking Second Opinions"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'&#10;Driver info: io.testproject.sdk.drivers.ios.IOSDriver&#10;Capabilities {ScaleFactor: 2.0, automationName: XCuiTest, browserName: , bundleId: com.mpoweredhealth.demo, databaseEnabled: false, deviceName: Anu, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0.0, noReset: true, platform: MAC, platformName: iOS, platformVersion: 14.6, realDevice: true, simpleIsVisibleCheck: true, skipDeviceDetect: true, takesScreenshot: true, tp:guid: e276716d-c3d7-4089-a11b-ccd..., udid: b7300d521424b6111a573940f08..., useExternalWDA: true, usePrebuiltWDA: true, waitForQuiescence: false, webDriverAgentUrl: http://localhost:58491, webStorageEnabled: false}&#10;Session ID: 90a694e9-3ac9-4460-8432-a60fb0fdcca1&#10;*** Element info: {Using=xpath, value=//XCUIElementTypeCell/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'&#10;Driver info: driver.version: IOSDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.testproject.sdk.drivers.ios.IOSDriver
+Capabilities {ScaleFactor: 2.0, automationName: XCuiTest, browserName: , bundleId: com.mpoweredhealth.demo, databaseEnabled: false, deviceName: Anu, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0.0, noReset: true, platform: MAC, platformName: iOS, platformVersion: 14.6, realDevice: true, simpleIsVisibleCheck: true, skipDeviceDetect: true, takesScreenshot: true, tp:guid: e276716d-c3d7-4089-a11b-ccd..., udid: b7300d521424b6111a573940f08..., useExternalWDA: true, usePrebuiltWDA: true, waitForQuiescence: false, webDriverAgentUrl: http://localhost:58491, webStorageEnabled: false}
+Session ID: 90a694e9-3ac9-4460-8432-a60fb0fdcca1
+*** Element info: {Using=xpath, value=//XCUIElementTypeCell/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: driver.version: IOSDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.testproject.sdk.drivers.ios.IOSDriver
+Capabilities {ScaleFactor: 2.0, automationName: XCuiTest, browserName: , bundleId: com.mpoweredhealth.demo, databaseEnabled: false, deviceName: Anu, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0.0, noReset: true, platform: MAC, platformName: iOS, platformVersion: 14.6, realDevice: true, simpleIsVisibleCheck: true, skipDeviceDetect: true, takesScreenshot: true, tp:guid: e276716d-c3d7-4089-a11b-ccd..., udid: b7300d521424b6111a573940f08..., useExternalWDA: true, usePrebuiltWDA: true, waitForQuiescence: false, webDriverAgentUrl: http://localhost:58491, webStorageEnabled: false}
+Session ID: 90a694e9-3ac9-4460-8432-a60fb0fdcca1
+*** Element info: {Using=xpath, value=//XCUIElementTypeCell/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: driver.version: IOSDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)&#13;
+io.testproject.sdk.internal.helpers.CustomAppiumCommandExecutor.execute(CustomAppiumCommandExecutor.java:124)&#13;
+io.testproject.sdk.internal.helpers.CustomAppiumCommandExecutor.execute(CustomAppiumCommandExecutor.java:106)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)&#13;
+Stepdefinitions.Services_positive_scenario.verify_second_opinion_page(Services_positive_scenario.java:70)&#13;
+✽.Verify second opinion page(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Services_positive_scenario.feature:11)&#13;
+</system-err></testcase><testcase name="Navigation to the Conditions page on clicking Conditions"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+Stepdefinitions.Services_positive_scenario.click_conditions(Services_positive_scenario.java:77)&#13;
+✽.click on Conditions(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Services_positive_scenario.feature:15)&#13;
+</system-err></testcase><testcase name="Validate Navigation to the Medications page on clicking Medications"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+Stepdefinitions.Services_positive_scenario.click_medication_page(Services_positive_scenario.java:89)&#13;
+✽.Click on medications page(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Services_positive_scenario.feature:20)&#13;
+</system-err></testcase><testcase name="Validate navigation to the Bills page on clicking Bills"><error message="Index 0 out of bounds for length 0" type="java.lang.IndexOutOfBoundsException">Index 0 out of bounds for length 0</error><system-err>Index 0 out of bounds for length 0&#13;
+Stepdefinitions.Services_positive_scenario.click_bills_page(Services_positive_scenario.java:103)&#13;
+✽.Click Bills page(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Services_positive_scenario.feature:25)&#13;
+</system-err></testcase><testcase name="Validate navigation to the Claims page on clicking Claims"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+Stepdefinitions.Services_positive_scenario.clickClaimsPage(Services_positive_scenario.java:115)&#13;
+✽.Click claims page(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Services_positive_scenario.feature:30)&#13;
+</system-err></testcase></testsuite>

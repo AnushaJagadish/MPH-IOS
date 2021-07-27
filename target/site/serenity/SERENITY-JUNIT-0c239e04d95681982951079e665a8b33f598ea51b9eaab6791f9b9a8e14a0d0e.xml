@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="Verify the header page positive scenarios" skipped="0" tests="11" time="145.78" timestamp="2021-07-26 03:42:00"><testcase name="Validate that the mpowered health logo/hamburger in the header"><error message="user Dir is not specified in the Config.properties" type="java.lang.RuntimeException">user Dir is not specified in the Config.properties</error><system-err>user Dir is not specified in the Config.properties&#13;
+Reusable_Functions.Generic_functions.getDir(Generic_functions.java:131)&#13;
+Reusable_Functions.Generic_functions.takeScreenShot(Generic_functions.java:137)&#13;
+Stepdefinitions.Header_positive_scenario.navigated_header_page(Header_positive_scenario.java:41)&#13;
+✽.Navigated to the 'Header' page(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Header_positive_scenario.feature:5)&#13;
+</system-err></testcase><testcase name="Validation of the Drop down tab"/><testcase name="Validate profile page on clicking  Your profile tab"/><testcase name="Validate  Your ratings dashboard"/><testcase name="Validate the alerts page"/><testcase name="Validate Help or FAQ  page"/><testcase name="Validate  Privacy Policy dialogue box on clicking on the Privacy Policy"/><testcase name="Validate Terms &amp; Conditions dialogue box on clicking on the Terms &amp; Conditions"/><testcase name="Validate the Contact Us page"/><testcase name="Validate that the user is navigated to the Feedback Port   page  on clicking Feedback"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'&#10;Driver info: io.testproject.sdk.drivers.ios.IOSDriver&#10;Capabilities {ScaleFactor: 2.0, automationName: XCuiTest, browserName: , bundleId: com.mpoweredhealth.demo, databaseEnabled: false, deviceName: Anu, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0.0, noReset: true, platform: MAC, platformName: iOS, platformVersion: 14.6, realDevice: true, simpleIsVisibleCheck: true, skipDeviceDetect: true, takesScreenshot: true, tp:guid: bdbab068-7f7a-4c34-86c4-d4f..., udid: b7300d521424b6111a573940f08..., useExternalWDA: true, usePrebuiltWDA: true, waitForQuiescence: false, webDriverAgentUrl: http://localhost:60674, webStorageEnabled: false}&#10;Session ID: 8b633ae8-d94d-4862-a6a0-c5013bbaa4d9&#10;*** Element info: {Using=xpath, value=//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'&#10;Driver info: driver.version: IOSDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.testproject.sdk.drivers.ios.IOSDriver
+Capabilities {ScaleFactor: 2.0, automationName: XCuiTest, browserName: , bundleId: com.mpoweredhealth.demo, databaseEnabled: false, deviceName: Anu, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0.0, noReset: true, platform: MAC, platformName: iOS, platformVersion: 14.6, realDevice: true, simpleIsVisibleCheck: true, skipDeviceDetect: true, takesScreenshot: true, tp:guid: bdbab068-7f7a-4c34-86c4-d4f..., udid: b7300d521424b6111a573940f08..., useExternalWDA: true, usePrebuiltWDA: true, waitForQuiescence: false, webDriverAgentUrl: http://localhost:60674, webStorageEnabled: false}
+Session ID: 8b633ae8-d94d-4862-a6a0-c5013bbaa4d9
+*** Element info: {Using=xpath, value=//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: driver.version: IOSDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: io.testproject.sdk.drivers.ios.IOSDriver
+Capabilities {ScaleFactor: 2.0, automationName: XCuiTest, browserName: , bundleId: com.mpoweredhealth.demo, databaseEnabled: false, deviceName: Anu, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0.0, noReset: true, platform: MAC, platformName: iOS, platformVersion: 14.6, realDevice: true, simpleIsVisibleCheck: true, skipDeviceDetect: true, takesScreenshot: true, tp:guid: bdbab068-7f7a-4c34-86c4-d4f..., udid: b7300d521424b6111a573940f08..., useExternalWDA: true, usePrebuiltWDA: true, waitForQuiescence: false, webDriverAgentUrl: http://localhost:60674, webStorageEnabled: false}
+Session ID: 8b633ae8-d94d-4862-a6a0-c5013bbaa4d9
+*** Element info: {Using=xpath, value=//XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SC898AR', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: driver.version: IOSDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)&#13;
+io.testproject.sdk.internal.helpers.CustomAppiumCommandExecutor.execute(CustomAppiumCommandExecutor.java:124)&#13;
+io.testproject.sdk.internal.helpers.CustomAppiumCommandExecutor.execute(CustomAppiumCommandExecutor.java:106)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)&#13;
+Reusable_Functions.Generic_functions.page_explicit_wait(Generic_functions.java:117)&#13;
+Stepdefinitions.Header_positive_scenario.click_feedback(Header_positive_scenario.java:238)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:64)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:104)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:73)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:235)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:54)&#13;
+</system-err></testcase><testcase name="Validate the Landing page on clicking Log out icon"><error message="user Dir is not specified in the Config.properties" type="java.lang.RuntimeException">user Dir is not specified in the Config.properties</error><system-err>user Dir is not specified in the Config.properties&#13;
+Reusable_Functions.Generic_functions.getDir(Generic_functions.java:131)&#13;
+Reusable_Functions.Generic_functions.takeScreenShot(Generic_functions.java:137)&#13;
+Stepdefinitions.Header_positive_scenario.click_DropDown_Hamburger(Header_positive_scenario.java:65)&#13;
+Stepdefinitions.Header_positive_scenario.click_logOut(Header_positive_scenario.java:282)&#13;
+✽.click on Log out icon(file:///D:/automation/MPH-IOS-main%20(1)/MPH-IOS-main/src/test/resources/features/Header_positive_scenario.feature:53)&#13;
+</system-err></testcase></testsuite>
